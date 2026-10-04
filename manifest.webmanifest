@@ -1,0 +1,13 @@
+{
+  "name": "掌中書｜拍照看手相",
+  "short_name": "掌中書",
+  "description": "拍一張手掌照片，看看傳統手相怎麼解讀你的掌紋。娛樂用途。",
+  "lang": "zh-Hant",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#E4ECE6",
+  "theme_color": "#1E2A44",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
